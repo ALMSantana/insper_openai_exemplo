@@ -3,3 +3,8 @@
 
 # Ada Library Information
 *.ali
+
+*.env
+.env
+
+*.exe
