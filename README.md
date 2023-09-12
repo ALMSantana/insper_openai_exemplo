@@ -1,0 +1,1 @@
+# insper_openai_exemplo
